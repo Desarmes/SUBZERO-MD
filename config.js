@@ -26,7 +26,7 @@ function convertToBool(text, fault = 'true') {
 //--------------------------Mr Frank---------------------------------------
 module.exports = {
 
-SESSION_ID: process.env.SESSION_ID || "Subzero~OQQywCoR#OF6qmyQ_fyWUtY9Ft1kO8h1V3p-1AuyMkSEHtavXOG4",
+SESSION_ID: process.env.SESSION_ID || "eMxBTYzA#Kug97JLtBWofotB9Pk4CykW2_QKvFSHr092tKR4aJUI",
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true", //TRUE OR FALSE
 OWNER_NUMBER: process.env.OWNER_NUMBER || "50943099723",
 MODE: process.env.MODE || "public",  // PRIVATE OR PUBLIC
@@ -39,7 +39,7 @@ ANTI_LINK: process.env.ANTI_LINK || "true",
 ANTI_BAD: process.env.ANTI_BAD || "true",
 PREFIX: process.env.PREFIX || ".", // .,!/?
 FAKE_RECORDING: process.env.FAKE_RECORDING || "true",
-AUTO_REACT: process.env.AUTO_REACT || "false",
+AUTO_REACT: process.env.AUTO_REACT || "true",
 HEART_REACT: process.env.HEART_REACT || "false",
 OWNER_REACT: process.env.OWNER_REACT || "false",
 BOT_NAME: process.env.BOT_NAME || "『 ＳＵＢＺＥＲＯ - ＭＤ 』",
